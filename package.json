@@ -2,7 +2,7 @@
   "name": "project-quiz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<abubakarmeraj>.github.io/<>",
+  "homepage": "https://abubakarmeraj.github.io/project-quiz-repo",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
